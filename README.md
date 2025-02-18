@@ -1,10 +1,10 @@
 # Experiência-Gastronomia-em-londrina
  ## GRUPO
- * LUCAS HENRIQUE MORAES COSTA (GELOBEL)
- * JOAO VICTOR CARVALHO SA SILVA(THE Yellow dale)
- * JEAN CARLOS ISIDORO(Arnaldo`s Lanches)
- * RODRIGO OLIVEIRA DA CRUZ(COCO BAMBU)
- * HEITOR GIUSSANE DALLA VILLA (NACHO MAN) 
+ * LUCAS HENRIQUE MORAES COSTA (GELOBEL)  https://github.com/lucashmc/ATIVGRUPO-1-
+ * JOAO VICTOR CARVALHO SA SILVA(THE Yellow dale) https://github.com/CarvalhotoKz/Construindo_um_Site_em_Grupo
+ * JEAN CARLOS ISIDORO(Arnaldo`s Lanches) https://github.com/jean155-jj/AtividadeDesenvolvimento
+ * RODRIGO OLIVEIRA DA CRUZ(COCO BAMBU) https://github.com/RocOliveira/TrabalhoGastronomico.git
+ * HEITOR GIUSSANE DALLA VILLA (NACHO MAN)  https://github.com/HeitorDalla/Restaurante
 
  ## GELOBEL
 
